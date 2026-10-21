@@ -1,7 +1,6 @@
 
 import re
 import math
-import statistics
 from donnees import LOT_A
 
 # Paramètres du contrôle qualité
